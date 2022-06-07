@@ -10,7 +10,7 @@ class Matteo:
     self.education = ['PoliTo']
     self.experience = ['Icarus Team', 'Consoft Sistemi']
     self.interests = ['Computer Vision', 'Healthcare', 'Finance', 'Space']
-    self.hobbies = ['Run', 'Reading', 'Chess']
+    self.hobbies = ['Gym', 'Hiking', 'Reading', 'Chess']
 ```
 <br />
   
@@ -22,7 +22,7 @@ class Matteo:
 * [`Machine Learning for IOT`](https://github.com/MatteoM95/MachineLearning4IOT) : homework for the course "Machine Learning for IOT", multi-step forecasting and Edge-Cloud Collaborative Inference;
 * [`Network dynamics and learning homework`](https://github.com/MatteoM95/Network-Dynamics-and-Learning) homework for the course "Network Dynamics and Learning", averaging dynamics through network and epidemic simulation model;
 * [`Real-Time Doamin Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation) : A class-based styling approach for Real-Time Doamin Adaptation in Semantic Segmentation applied to **autonomus driving**;
-* [`Skymap path planner`](https://github.com/MatteoM95/Skymap-path-planner): route pathfinder through cloud using graph algorithm;
+* [`Skymap path planner`](https://github.com/MatteoM95/Skymap-path-planner): pathfinder route planner though the cloud using dijkstra algorithm 
 
  
 🚧 Repositories in progress: 
