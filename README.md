@@ -14,7 +14,7 @@ class Matteo:
 ```
 <br />
   
-💻 I'm Matteo Merlo, a `Data Science and Engineering student` at Politecnico di Torino.
+💻 I'm Matteo Merlo, a `Data Science and Engineering` student at Politecnico di Torino.
 
 
 ✅ Finished projects:
