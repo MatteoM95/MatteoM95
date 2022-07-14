@@ -28,7 +28,7 @@ class Matteo:
 
  
 🚧 Repositories in progress: 
-* [`Bank-Marketing-Dataset-Analysis`](https://github.com/MatteoM95/Bank-Marketing-Dataset-Analysis) : in depth analysis of **Random Forest**, **SVM** and **Logistic Regression**;
+* [`Default of Credit Card Clients Dataset Analisys`](https://github.com/MatteoM95/Default-of-Credit-Card-Clients-Dataset-Analisys) : in depth analysis of **Random Forest**, **SVM** and **Logistic Regression**;
 
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
