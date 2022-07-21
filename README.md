@@ -1,7 +1,7 @@
 <p align="center" style="font-weight:bold"> 👋 <b>Hi there!</b> <p>
   
 ![Visitor Count](https://profile-counter.glitch.me/MatteoM95/count.svg)
-
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
 ---
 
 ```python
