@@ -40,7 +40,7 @@ class Matteo:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Languages and Tools:
+<h2  align="center"> Languages and Tools </h2>
 
 <p align="center"> 
   
