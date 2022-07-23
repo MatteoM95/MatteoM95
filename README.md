@@ -100,9 +100,15 @@ class Matteo:
   
 </p>
 
+<h2 align="center" 📊 <b>Stats</b> </h2>
 
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MatteoM95&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=MatteoM95&show_icons=true&theme=bear" width = 400>
+</p>
 
 <br />
+
 <h2 align="center" 📫 <b>Connect with me</b> </h2>
 
 
