@@ -17,17 +17,15 @@
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
 -->
 
----
-
 ```python
 class Matteo:
   def __init__(self):
     self.name = 'Matteo'
     self.surname = 'Merlo'
-    self.education = ['PoliTo']
+    self.education = ['Politecnico di Torino']
     self.experience = ['Icarus Polito Team', 'Consoft Sistemi']
-    self.interests = ['Computer Vision', 'Healthcare', 'Finance', 'Space']
-    self.hobbies = ['Gym', 'Hiking', 'Reading', 'Chess']
+    self.interests = ['Computer Vision', 'Automotive', 'Finance', 'Space']
+    self.hobbies = ['Gym', 'Hiking', 'Reading papers', 'Chess']
 ```
 <br />
   
