@@ -38,8 +38,6 @@ class Matteo:
 
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
 <h2  align="center"> Languages and Tools </h2>
 
 <p align="center"> 
@@ -102,19 +100,17 @@ class Matteo:
   
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-
 
 
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteomerlo95/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteo.merlo.955@gmail.com)
+<p align="center"> 
   
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteomerlo95/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteo.merlo.955@gmail.com)
+</p>  
 <!--
 **MatteoM95/MatteoM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
