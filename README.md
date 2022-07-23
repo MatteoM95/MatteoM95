@@ -1,5 +1,17 @@
-<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> I am Matteo Merlo </h1>
+<h1 align="center">Hello Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> I am Matteo Merlo </h1>
 <h3 align="center">A Data Science and Engineering student from Italy</h3>
+
+
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatteoM95&style=square" alt="MatteoM95" />
+  <a href="https://matteom95.github.io/">
+    <img src="https://img.shields.io/badge/matteom95.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
+  </a>
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
+</h2>
+
+
+  
   
 ![Visitor Count](https://profile-counter.glitch.me/MatteoM95/count.svg)
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
