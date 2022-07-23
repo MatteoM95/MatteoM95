@@ -103,7 +103,7 @@ class Matteo:
 
 
 <br />
-<p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
+<h2 align="center" 📫 <b>Connect with me</b> </h2>
 
 
 <p align="center"> 
