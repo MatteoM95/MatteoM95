@@ -1,4 +1,5 @@
-<p align="center" style="font-weight:bold"> 👋 <b>Hi there!</b> <p>
+<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> I am Matteo Merlo </h1>
+<h3 align="center">A Data Science and Engineering student from Italy</h3>
   
 ![Visitor Count](https://profile-counter.glitch.me/MatteoM95/count.svg)
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
