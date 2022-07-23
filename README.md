@@ -29,7 +29,6 @@ class Matteo:
 ```
 <br />
 
-
 <h2  align="center"> ✅ Finished projects </h2>
 
 * 🐥 [`Twitter-Sentiment-Analisys`](https://github.com/MatteoM95/Twitter-Sentiment-Analisys): Sentiment analysis of a dataset of tweets through machine learning techniques.
