@@ -1,5 +1,5 @@
 <h1 align="center">Hello Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> I am Matteo Merlo </h1>
-<h3 align="center">A Data Science and Engineering student from Italy</h3>
+<h3 align="center"> 💻 A Data Science and Engineering student from Italy</h3>
 
 
 <h2 align="center">
@@ -28,8 +28,6 @@ class Matteo:
     self.hobbies = ['Gym', 'Hiking', 'Reading papers', 'Chess']
 ```
 <br />
-  
-💻 I'm Matteo Merlo, a `Data Science and Engineering` student at Politecnico di Torino.
 
 
 <h2  align="center"> ✅ Finished projects </h2>
