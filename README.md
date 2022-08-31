@@ -31,11 +31,11 @@ class Matteo:
 
 <h2  align="center"> ✅ Finished projects </h2>
 
-* 🐥 [`Twitter-Sentiment-Analisys`](https://github.com/MatteoM95/Twitter-Sentiment-Analisys): Sentiment analysis of a dataset of tweets through machine learning techniques.
-* 💉 [`Simulation Epidemics on graph`](https://github.com/MatteoM95/Network-Dynamics-and-Learning/tree/main/Homeworks/Homework3): simulation of a pandemic with the goal of learning the networkstructure characteristics and disease-dynamics parameters of the pandemic in Sweden 2009.
-* 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation) : A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied to **self-driving cars**;
-* 🛩 [`Skymap path planner`](https://github.com/MatteoM95/Skymap-path-planner): flight route planner though the clouds using pathfinding algorithm 
-* 🛃 [`Smart Home Vigilance System`](https://github.com/MatteoM95/Smart-Home-Vigilance-System): an indoor video surveillance system capable of recognizing the presence of a human intrusion
+* 🐥 [`Twitter-Sentiment-Analisys`](https://github.com/MatteoM95/Twitter-Sentiment-Analisys): **Sentiment analysis** of a dataset of tweets through machine learning techniques.
+* 💉 [`Simulation Epidemics on graph`](https://github.com/MatteoM95/Network-Dynamics-and-Learning/tree/main/Homeworks/Homework3): **SIR simulation** of a pandemic with the goal of learning the network structure characteristics and disease-dynamics parameters of the pandemic in Sweden 2009.
+* 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation) : A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied to **self-driving cars**.
+* 🛩 [`Skymap path planner`](https://github.com/MatteoM95/Skymap-path-planner): UAV flight route planner though the clouds using **pathfinding algorithm**. 
+* 🛃 [`Smart Home Vigilance System`](https://github.com/MatteoM95/Smart-Home-Vigilance-System): an indoor vigilance system is capable of **recognizing the presence of a human intrusion** through video-audio recording.
  
 <h2  align="center"> 🚧 Repositories in progress </h2>
 
