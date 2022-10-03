@@ -45,7 +45,7 @@ class Matteo:
 
 <h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
 
-* 📘 [`Machine Learning for IOT`](https://github.com/MatteoM95/MachineLearning4IOT) : homework for the course "Machine Learning for IOT", multi-step forecasting and Edge-Cloud Collaborative Inference;
+* 📘 [`Machine Learning for IOT`](https://github.com/MatteoM95/MachineLearning4IOT) : homeworks for the course "Machine Learning for IOT", multi-step forecasting and Edge-Cloud Collaborative Inference;
 * 📗 [`Network dynamics and learning homework`](https://github.com/MatteoM95/Network-Dynamics-and-Learning) homework for the course "Network Dynamics and Learning", averaging dynamics through network and epidemic simulation model;
 * 📕 [`Distributed architectures for big data processing and analytics`](https://github.com/MatteoM95/Big-data-processing-and-analytics) homework for the course "Distributed architectures for big data processing and analytics", pyspark and hadoop exercises;
 
