@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=MatteoM95&style=square" alt="MatteoM95" />
   <a href="https://matteom95.github.io/">
     <img src="https://img.shields.io/badge/matteom95.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
-  </a href="https://t.me/MatthewM95>
+  </a href="https://t.me/MatthewM95/" >
   
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </h2>
