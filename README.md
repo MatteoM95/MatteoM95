@@ -37,11 +37,11 @@ class Matteo:
 * 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation) : A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied to **self-driving cars**.
 * 🛩 [`Skymap path planner`](https://github.com/MatteoM95/Skymap-path-planner): UAV flight route planner though the clouds using **pathfinding algorithm**. 
 * 🛃 [`Smart Home Vigilance System`](https://github.com/MatteoM95/Smart-Home-Vigilance-System): an indoor vigilance system is capable of **recognizing the presence of a human intrusion** through video-audio recording.
-
+* 💳 [`Default of Credit Card Clients Dataset Analisys`](https://github.com/MatteoM95/Default-of-Credit-Card-Clients-Dataset) : mathematical analysis of **Random Forest**, **SVM** and **Logistic Regression**;
  
 <h2  align="center"> 🚧 Repositories in progress </h2>
 
-* 💳 [`Default of Credit Card Clients Dataset Analisys`](https://github.com/MatteoM95/Default-of-Credit-Card-Clients-Dataset-Analisys) : in depth analysis of **Random Forest**, **SVM** and **Logistic Regression**;
+
 
 <h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
 
