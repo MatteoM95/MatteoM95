@@ -113,12 +113,18 @@ class Matteo:
   
 </p>
 
-<h2 align="center" 📊 <b>Stats</b> </h2>
+<h2 align="center" 📊 <b>GitHub Stats</b> </h2>
 
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MatteoM95&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api?username=MatteoM95&show_icons=true&theme=bear" width = 400>
-</p>
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoM95&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoM95&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
 
 <br />
 
@@ -145,4 +151,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
+
+
+
+<h2 align="center" 📊 <b>GitHub Stats</b> </h2>
+
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MatteoM95&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=MatteoM95&show_icons=true&theme=bear" width = 400>
+</p>
 -->
