@@ -24,7 +24,7 @@ class Matteo:
     self.name = 'Matteo'
     self.surname = 'Merlo'
     self.education = ['Politecnico di Torino']
-    self.experience = ['Icarus Polito Team', 'Consoft Sistemi']
+    self.experience = ['Icarus Polito Team', 'Links Foundation']
     self.interests = ['Computer Vision', 'Automotive', 'Finance', 'Space']
     self.hobbies = ['Gym', 'Hiking', 'Reading papers', 'Chess']
 ```
