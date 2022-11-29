@@ -12,7 +12,6 @@
 
 
 <!--
-  
 ![Visitor Count](https://profile-counter.glitch.me/MatteoM95/count.svg)
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
 
