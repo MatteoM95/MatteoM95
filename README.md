@@ -17,7 +17,7 @@
 ```python
 class Matteo:
   def __init__(self):
-    self.name = 'Matteo'
+    self.name = 'Matteo' 
     self.surname = 'Merlo'
     self.education = ['Politecnico di Torino']
     self.experience = ['Icarus Polito Team', 'Links Foundation']
