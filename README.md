@@ -29,7 +29,7 @@ class Matteo:
 <h2  align="center"> ✅ Finished projects </h2>
 
 * 🔥 [`Multitask Semantic Segmentation from satellite imagery for burned area and severity estimation`](https://github.com/MatteoM95/Multitask-segmentation-from-satellite-imagery-for-burned-area-delineation-and-severity-estimation): A **Multitask Learning in Semantic Segmentation** approach is employed for targeting both wildfire delineation and burn severity estimation. 
-* 🛰️ [`CEMS Wildfire Dataset`](https://github.com/MatteoM95/CEMS-Wildfire-Dataset): A large dataset (500+ images) of past wildfire from Copernicus EMS.
+* 🛰️ [`CEMS Wildfire Dataset`](https://github.com/MatteoM95/CEMS-Wildfire-Dataset): A large dataset (500+ images) of past wildfire from Copernicus EMS using Sentinel-2 images.
 * 🛩 [`Skymap path planner`](https://github.com/MatteoM95/Skymap-path-planner): UAV flight route planner though the clouds using **pathfinding algorithm**. 
  
 <h2  align="center"> 🚧 Repositories in progress </h2>
