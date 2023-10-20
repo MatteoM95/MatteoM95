@@ -38,7 +38,7 @@ class Matteo:
 
 <h2  align="center">📕 Academic Projects 👨🏻‍💻 </h2>
 
-* 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation) : A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied within the realm of **autonomous driving** solutions.
+* 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation): A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied within the realm of **autonomous driving** solutions.
 * 🛃 [`Smart Home Vigilance System`](https://github.com/MatteoM95/Smart-Home-Vigilance-System): an indoor vigilance system that is capable of **recognizing the presence of a human intrusion** through video-audio recordings.
 * 💳 [`Default of Credit Card Clients Dataset Analisys`](https://github.com/MatteoM95/Default-of-Credit-Card-Clients-Dataset) : in depth mathematical analysis of **Random Forest**, **SVM** and **Logistic Regression**;
 * 🐥 [`Twitter-Sentiment-Analisys`](https://github.com/MatteoM95/Twitter-Sentiment-Analisys): **Sentiment analysis** of a dataset of tweets through machine learning techniques.
