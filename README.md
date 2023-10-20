@@ -21,8 +21,9 @@ class Matteo:
     self.surname = 'Merlo'
     self.education = ['Politecnico di Torino']
     self.experience = ['Icarus Polito Team', 'Links Foundation']
-    self.interests = ['Space', 'Computer Vision', 'Automotive', 'Finance']
-    self.hobbies = ['Gym', 'Hiking', 'Reading papers', 'Chess']
+    self.achievements = ['Won Best Paper Award at ECML PKDD 2023"]
+    self.interests = ['Space Exploration', 'Computer Vision', 'Climate change', 'Automotive', 'Finance']
+    self.hobbies = ['Chess', 'Reading scientific papers', 'Gym', 'Hiking']
 ```
 <br />
 
@@ -36,7 +37,7 @@ class Matteo:
 
 * 🛤️ [`Path finding in a Weighted Environment`](https://github.com/MatteoM95/Path-Finding-Algorithm-in-a-Weighted-environment): Try and testing different **pathfinding algorithms** in weighted environments. 
 
-<h2  align="center">📕 Academic Projects 👨🏻‍💻 </h2>
+<h2  align="center">📑 Academic Projects 👨🏼‍🎓 </h2>
 
 * 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation): A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied within the realm of **autonomous driving** solutions.
 * 🛃 [`Smart Home Vigilance System`](https://github.com/MatteoM95/Smart-Home-Vigilance-System): an indoor vigilance system that is capable of **recognizing the presence of a human intrusion** through video-audio recordings.
@@ -44,7 +45,7 @@ class Matteo:
 * 🐥 [`Twitter-Sentiment-Analisys`](https://github.com/MatteoM95/Twitter-Sentiment-Analisys): **Sentiment analysis** of a dataset of tweets through machine learning techniques.
 * 💉 [`Simulation Epidemics on Graphs`](https://github.com/MatteoM95/Network-Dynamics-and-Learning/tree/main/Homeworks/Homework3): **SIR simulation** of the evolution with the parameter of 2009 pandemic in Sweden with the goal of learning the network structure characteristics and disease-dynamics.
 
-<h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
+<h2  align="center">📚 Academic Repositories 👨🏻‍💻 </h2>
 
 * 📘 [`Machine Learning for IOT`](https://github.com/MatteoM95/MachineLearning4IOT): Homeworks from the course "Machine Learning for IOT", multi-step forecasting and Edge-Cloud Collaborative Inference.
 * 📗 [`Network dynamics and learning homework`](https://github.com/MatteoM95/Network-Dynamics-and-Learning): Homeworks from the course "Network Dynamics and Learning", averaging dynamics through network and epidemic simulation model.
