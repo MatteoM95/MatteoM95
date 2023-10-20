@@ -28,22 +28,28 @@ class Matteo:
 
 <h2  align="center"> ✅ Finished projects </h2>
 
-* 🐥 [`Twitter-Sentiment-Analisys`](https://github.com/MatteoM95/Twitter-Sentiment-Analisys): **Sentiment analysis** of a dataset of tweets through machine learning techniques.
-* 💉 [`Simulation Epidemics on graph`](https://github.com/MatteoM95/Network-Dynamics-and-Learning/tree/main/Homeworks/Homework3): **SIR simulation** of a pandemic with the goal of learning the network structure characteristics and disease-dynamics parameters of the pandemic in Sweden 2009.
-* 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation) : A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied to **self-driving cars**.
+* 🔥 [`Multitask Semantic Segmentation from satellite imagery for burned area and severity estimation`](https://github.com/MatteoM95/Multitask-segmentation-from-satellite-imagery-for-burned-area-delineation-and-severity-estimation): A **Multitask Learning in Semantic Segmentation** approach is employed for targeting both wildfire delineation and burn severity estimation. 
+* 🛰️ [`CEMS Wildfire Dataset`](https://github.com/MatteoM95/CEMS-Wildfire-Dataset): A large dataset (500+ images) of past wildfire from Copernicus EMS.
 * 🛩 [`Skymap path planner`](https://github.com/MatteoM95/Skymap-path-planner): UAV flight route planner though the clouds using **pathfinding algorithm**. 
-* 🛃 [`Smart Home Vigilance System`](https://github.com/MatteoM95/Smart-Home-Vigilance-System): an indoor vigilance system is capable of **recognizing the presence of a human intrusion** through video-audio recording.
-* 💳 [`Default of Credit Card Clients Dataset Analisys`](https://github.com/MatteoM95/Default-of-Credit-Card-Clients-Dataset) : mathematical analysis of **Random Forest**, **SVM** and **Logistic Regression**;
  
 <h2  align="center"> 🚧 Repositories in progress </h2>
 
+* 🛤️ [`Path finding in a Weighted Environment`](https://github.com/MatteoM95/Path-Finding-Algorithm-in-a-Weighted-environment): Try and testing different **pathfinding algorithms** in weighted environments. 
 
+<h2  align="center">📕 Academic Projects 👨🏻‍💻 </h2>
+
+* 🚙 [`Real-Time Domain Adaptation in Semantic Segmentation`](https://github.com/MatteoM95/Real-time-Domain-Adaptation-in-Semantic-Segmentation) : A class-based styling approach for Real-Time Domain Adaptation in Semantic Segmentation applied within the realm of **autonomous driving** solutions.
+* 🛃 [`Smart Home Vigilance System`](https://github.com/MatteoM95/Smart-Home-Vigilance-System): an indoor vigilance system that is capable of **recognizing the presence of a human intrusion** through video-audio recordings.
+* 💳 [`Default of Credit Card Clients Dataset Analisys`](https://github.com/MatteoM95/Default-of-Credit-Card-Clients-Dataset) : in depth mathematical analysis of **Random Forest**, **SVM** and **Logistic Regression**;
+* 🐥 [`Twitter-Sentiment-Analisys`](https://github.com/MatteoM95/Twitter-Sentiment-Analisys): **Sentiment analysis** of a dataset of tweets through machine learning techniques.
+* 💉 [`Simulation Epidemics on Graphs`](https://github.com/MatteoM95/Network-Dynamics-and-Learning/tree/main/Homeworks/Homework3): **SIR simulation** of the evolution with the parameter of 2009 pandemic in Sweden with the goal of learning the network structure characteristics and disease-dynamics.
 
 <h2  align="center">📕 Academic Repositories 👨🏻‍💻 </h2>
 
-* 📘 [`Machine Learning for IOT`](https://github.com/MatteoM95/MachineLearning4IOT) : homeworks for the course "Machine Learning for IOT", multi-step forecasting and Edge-Cloud Collaborative Inference;
-* 📗 [`Network dynamics and learning homework`](https://github.com/MatteoM95/Network-Dynamics-and-Learning) homework for the course "Network Dynamics and Learning", averaging dynamics through network and epidemic simulation model;
-* 📕 [`Distributed architectures for big data processing and analytics`](https://github.com/MatteoM95/Big-data-processing-and-analytics) homework for the course "Distributed architectures for big data processing and analytics", pyspark and hadoop exercises;
+* 📘 [`Machine Learning for IOT`](https://github.com/MatteoM95/MachineLearning4IOT): Homeworks from the course "Machine Learning for IOT", multi-step forecasting and Edge-Cloud Collaborative Inference.
+* 📗 [`Network dynamics and learning homework`](https://github.com/MatteoM95/Network-Dynamics-and-Learning): Homeworks from the course "Network Dynamics and Learning", averaging dynamics through network and epidemic simulation model.
+* 📕 [`Distributed architectures for big data processing and analytics`](https://github.com/MatteoM95/Big-data-processing-and-analytics): Homeworks from the course "Distributed architectures for big data processing and analytics", pyspark and hadoop exercises.
+* 📕 [`Datascience Lab`](https://github.com/MatteoM95/Datascience-Lab): Laboratories from the course "Datascience Lab: process and methods";
 
 
 
@@ -156,4 +162,8 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=MatteoM95&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-stats.vercel.app/api?username=MatteoM95&show_icons=true&theme=bear" width = 400>
 </p>
+
+
+
+Github description: Just a data science student who constantly wants exploring and learning new things!
 -->
