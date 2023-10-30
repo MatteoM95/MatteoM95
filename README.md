@@ -22,7 +22,7 @@ class Matteo:
     self.education = ['Politecnico di Torino']
     self.experience = ['Icarus Polito Team', 'Links Foundation']
     self.achievements = ['Best Paper Award at ECML PKDD 2023']
-    self.interests = ['Space Exploration', 'Computer Vision', 'Climate change', 'Automotive', 'Finance']
+    self.interests = ['Space Exploration', 'Climate change', 'Automotive', 'Computer Vision', 'Finance']
     self.hobbies = ['Chess', 'Reading scientific papers', 'Gym', 'Hiking']
 ```
 <br />
